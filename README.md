@@ -1,7 +1,7 @@
 # Welcome
 Welcome to my website!
 
-# Projects
+# My Projects
 ## Pong
 https://ibattlehd.github.io/Pong/
 ## Tic Tac Toe
